@@ -2,3 +2,5 @@
 
 NDK version must over r10,like r10e
 compile ok ,not test.
+
+mi5测试通过
